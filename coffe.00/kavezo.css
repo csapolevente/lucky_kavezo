@@ -1,18 +1,20 @@
 @import url('https://fonts.google.com/specimen/Abril+Fatface?sort=alpha')
 
-body:
+border-style;
+
+body;
 
 nav{
-  background-color: #1E1E1E
+  background-color: #1E1E1E;
   padding: 15px;
   position: fixed;
 }
 nav a{
-  color: white
+  color: white;
   margin: 15px;
 }
 nav a:hover{
-  color: white
+  color: white;
   text-decoration: none;
 }
 
@@ -21,7 +23,7 @@ nav a:first-child img{
 }
 
 .banner{
-  backgroubd-image: url(../foto2.jpg)
+  background-image: url(../foto2.jpg);
   background-position: center center;
   background-size: cover;
   height: 400px;
